@@ -1,6 +1,6 @@
 # Not Bot
 
-> -Not Bot is a discord retired Bot
+> Not Bot is a discord retired Bot
 
 <div align="center">
   <br />
