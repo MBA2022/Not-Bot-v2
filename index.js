@@ -1,9 +1,9 @@
 /**
  *
  * @name Not-Bot
- * @author MBA <i8bou3@gmail.com>
+ * @author MBA & i8bou3<mohhdbm.amr@gmai.com ||i8bou3@gmail.com>
  * @license MIT
- * @copyright (c) 2022 MBA
+ * @copyright (c) 2022 i8bou3 & MBA
  *
  */
 require("dotenv").config();
