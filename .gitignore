@@ -1,6 +1,3 @@
-locales/*
-!locales/source
-
 # Logs
 logs
 *.log
