@@ -5,7 +5,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://discord.com/api/oauth2/authorize?client_id=940212902412050432&permissions=8&scope=bot"><img src="file:///C:/Users/Family/Downloads/Not%20Bot%20logo%20(1)%20(1).png" width="300" alt="Not Bot" /></a>
+    <a href="https://discord.com/api/oauth2/authorize?client_id=940212902412050432&permissions=8&scope=bot"></a>
   </p>
   <br />
   <p>
