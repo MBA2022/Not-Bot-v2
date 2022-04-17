@@ -24,7 +24,7 @@
 1. [Fork][fork] & clone the repository
 2. Make sure your `node.js` & `npm` are up to date
 3. Run `npm ci` to install all dependencies
-4. Create an `.env` file and add (TOKEN, MONGO_URI) to it
+4. Create an `.env` file (Use [example.env] as a template)
 5. Run `npm run start` to start the bot
 
 ## License
